@@ -30,4 +30,13 @@ Grayscale conversion is one of the most fundamental preprocessing techniques in 
 ---
 
 ## 🎯 Learning Outcome
+## Output
+
+### Input Image
+
+![Input](input.png)
+
+### Grayscale Output
+
+![Output](output_gray.png)
 Through this implementation, I learned how OpenCV converts a color image into grayscale and why grayscale images are commonly used before applying advanced image processing techniques.
