@@ -23,7 +23,7 @@ My goal is to learn Computer Vision by implementing each concept step by step an
 | 01 | RGB to Grayscale | ✅ | `01_RGB_to_Grayscale` |
 | 02 | Image Reading | ✅ | `02_Image_Reading` |
 | 03 | Image Cropping | ✅ | `03_Image_Cropping` |
-| 04 | Image Rotation | ⏳ | Coming Soon |
+| 04 | Image Rotation | ✅ | `04_Image_Rotation` |
 | 05 | Image Resize | ⏳ | Coming Soon |
 | 06 | Image Flip | ⏳ | Coming Soon |
 | 07 | Brightness & Contrast | ⏳ | Coming Soon |
